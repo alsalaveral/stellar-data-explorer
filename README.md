@@ -12,21 +12,15 @@ Dataset
 The project uses astronomical data from the Sloan Digital Sky Survey (SDSS).
 
 Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
-Analysis
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Analysis
 
 The project includes data cleaning, exploratory data analysis, descriptive statistics, and data visualization.
 
-Visualizations include:
-
-Histograms
-Scatter plots
-Box plots
-Bar charts
 
 Astronomical measurements explored include magnitude, wavelength, color, and redshift.
 
